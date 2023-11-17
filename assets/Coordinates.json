@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "nome": "Museu de Arte de São Paulo (MASP)",
+      "foto": "https://acessocultural.com.br/wp-content/uploads/2019/11/masp.jpg",
+      "endereco": "Avenida Paulista, 1578 - Bela Vista, São Paulo - SP",
+      "coordenadas": {
+        "latitude": -23.561626,
+        "longitude": -46.656529
+      }
+    },
+    {
+      "id": 2,
+      "nome": "Parque Ibirapuera",
+      "foto": "https://th.bing.com/th/id/OIP.Dr8emSXFX8LWW3Uj7FsHIwHaEM?pid=ImgDet&rs=1",
+      "endereco": "Avenida Pedro Álvares Cabral - Vila Mariana, São Paulo - SP",
+      "coordenadas": {
+        "latitude": -23.587910,
+        "longitude": -46.657512
+      }
+    } 
+ ]
+  
